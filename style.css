@@ -36,10 +36,18 @@ body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+h3 {
+    color: lightseagreen;
+}
+
 img {
     float: left;
 }
 
 #submit-button {
     background-color: lightseagreen;
+}
+
+.col-6 {
+    float: left;
 }
